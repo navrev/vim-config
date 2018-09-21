@@ -3,7 +3,7 @@ Installation
 
 To install, run
 
-    git clone git://github.com/nviennot/vim-config.git ~/.vim
+    git clone https://github.com/navrev/vim-config.git ~/.vim
     cd ~/.vim
     make install
 
